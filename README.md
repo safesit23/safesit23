@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi ! My name is SAFE 👋
+
+My name is Jatawat Xie. I am studying at School of Information Technology, King Mongkut's University of Technology Thonburi. I am a fourth-year student with a major in Information Technology. My current GPA is 3.92. I am interested in programmer and website developer.
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=safesit23)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **safesit23/safesit23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

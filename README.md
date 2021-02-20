@@ -1,6 +1,6 @@
 ## Hi ! My name is SAFE 👋
 
-My name is Jatawat Xie. I am studying at School of Information Technology, King Mongkut's University of Technology Thonburi. I am a fourth-year student with a major in Information Technology. My current GPA is 3.92. I am interested in programmer and website developer.
+My name is Jatawat Xie. I am studying at School of Information Technology, King Mongkut's University of Technology Thonburi. I am a fourth-year student with a major in Information Technology. My current GPA is 3.93. I am interested in programmer and website developer.
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=safesit23&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)

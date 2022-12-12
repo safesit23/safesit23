@@ -1,6 +1,6 @@
 ## Hi ! My name is SAFE 👋
 
-My name is Jatawat Xie. I graduated with a first-class honors degree in Information Technology from King Mongkut's University of Technology Thonburi. My GPAX is 3.94. Now, I'm CTO at Bangkok Genius and Product Owner at Sable Co., Ltd. I'm interested in management, technology and psychological.
+Jatawat is a Product Owner at Sable and CTO at Bangkok Genius based on Bangkok, Thailand. He interested in management, technology and marketing. He has experience in teaching and consulting about Data Analytics and Data Visualization to business and student in university. Besides, he is a person who never stop learning and develop himself.
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=safesit23&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
